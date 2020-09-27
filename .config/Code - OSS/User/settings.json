@@ -1,0 +1,33 @@
+{
+	"workbench.startupEditor": "newUntitledFile",
+	"window.zoomLevel": 3,
+	"editor.fontFamily": "'Fira Code', 'Hack', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+	"editor.formatOnSave": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"vetur.format.options.useTabs": true,
+	"vetur.format.options.tabSize": 4,
+	"vetur.format.scriptInitialIndent": true,
+	"vetur.format.styleInitialIndent": true,
+	"javascript.preferences.quoteStyle": "single",
+	"typescript.preferences.quoteStyle": "single",
+	"editor.minimap.enabled": false,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "/dist/css"
+		},
+		{
+			"format": "compact",
+			"extensionName": ".min.css",
+			"savePath": "/dist/css"
+		}
+	],
+	"workbench.iconTheme": "material-icon-theme",
+	"explorer.compactFolders": false,
+	"editor.fontLigatures": true,
+	"workbench.enableExperiments": false,
+	"telemetry.enableCrashReporter": false,
+	"telemetry.enableTelemetry": false,
+	"editor.tabSize": 2,
+}
