@@ -1,4 +1,4 @@
-alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias config='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 abbr -ag cf "vim ~/.config/fish/config.fish"
 abbr -ag cv "vim ~/.vimrc"

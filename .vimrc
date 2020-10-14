@@ -1,6 +1,5 @@
 " Plugins
 call plug#begin('~/.vim/plugged')
-  Plug 'neoclide/coc.nvim', { 'branch': 'release' }
   Plug 'sheerun/vim-polyglot'
   Plug 'preservim/nerdtree'
   Plug 'Xuyuanp/nerdtree-git-plugin'
@@ -10,13 +9,6 @@ call plug#begin('~/.vim/plugged')
   Plug 'vim-airline/vim-airline'
   Plug 'vim-airline/vim-airline-themes'
 call plug#end()
-
-" COC
-let g:coc_global_extensions = [
-  \ "coc-snippets",
-  \ "coc-pairs",
-  \ "coc-json",
-  \ ]
 
 set hidden
 set nobackup
